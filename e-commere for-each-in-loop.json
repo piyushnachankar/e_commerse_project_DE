@@ -1,0 +1,30 @@
+[
+  {
+    "csv_relative_url": "e_commerse_project_DE/refs/heads/main/gitolist_sellers_dataset.csv",
+    "file_name": "gitolist_sellers_dataset.csv"
+  },
+  {
+    "csv_relative_url": "e_commerse_project_DE/refs/heads/main/gitolist_sellers_dataset.csv",
+    "file_name": "olist_geolocation_dataset.csv"
+  },
+  {
+    "csv_relative_url": "e_commerse_project_DE/refs/heads/main/gitolist_sellers_dataset.csv",
+    "file_name": "olist_order_items_dataset.csv"
+  },
+  {
+    "csv_relative_url": "e_commerse_project_DE/refs/heads/main/gitolist_sellers_dataset.csv",
+    "file_name": "olist_order_reviews_dataset.csv"
+  },
+  {
+    "csv_relative_url": "e_commerse_project_DE/refs/heads/main/gitolist_sellers_dataset.csv",
+    "file_name": "olist_orders_dataset.csv"
+  },
+  {
+    "csv_relative_url": "e_commerse_project_DE/refs/heads/main/gitolist_sellers_dataset.csv",
+    "file_name": "olist_products_dataset.csv"
+  },
+  {
+    "csv_relative_url": "e_commerse_project_DE/refs/heads/main/gitolist_sellers_dataset.csv",
+    "file_name": "product_category_name_translation.csv"
+  }
+]
